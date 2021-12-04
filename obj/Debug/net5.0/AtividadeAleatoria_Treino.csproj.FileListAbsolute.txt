@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\bin\Debug\net5.0\AtividadeAleatoria_Treino.exe
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\bin\Debug\net5.0\AtividadeAleatoria_Treino.deps.json
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\bin\Debug\net5.0\AtividadeAleatoria_Treino.runtimeconfig.json
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\bin\Debug\net5.0\AtividadeAleatoria_Treino.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\bin\Debug\net5.0\AtividadeAleatoria_Treino.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\bin\Debug\net5.0\ref\AtividadeAleatoria_Treino.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\bin\Debug\net5.0\AtividadeAleatoria_Treino.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\AtividadeAleatoria_Treino.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\AtividadeAleatoria_Treino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\AtividadeAleatoria_Treino.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\AtividadeAleatoria_Treino.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\AtividadeAleatoria_Treino.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\AtividadeAleatoria_Treino.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\ref\AtividadeAleatoria_Treino.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\AtividadeAleatoria_Treino.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\ManipulacaoString\AtividadeAleatoria_Treino\obj\Debug\net5.0\AtividadeAleatoria_Treino.genruntimeconfig.cache
